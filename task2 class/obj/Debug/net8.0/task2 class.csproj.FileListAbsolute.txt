@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.AssemblyInfo.cs
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\task2 class\bin\Debug\net8.0\task2 class.exe
+C:\Users\Dell\source\repos\task2 class\bin\Debug\net8.0\task2 class.deps.json
+C:\Users\Dell\source\repos\task2 class\bin\Debug\net8.0\task2 class.runtimeconfig.json
+C:\Users\Dell\source\repos\task2 class\bin\Debug\net8.0\task2 class.dll
+C:\Users\Dell\source\repos\task2 class\bin\Debug\net8.0\task2 class.pdb
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.dll
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\refint\task2 class.dll
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.pdb
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\task2 class.genruntimeconfig.cache
+C:\Users\Dell\source\repos\task2 class\obj\Debug\net8.0\ref\task2 class.dll
